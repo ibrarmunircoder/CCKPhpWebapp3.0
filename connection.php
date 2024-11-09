@@ -1,6 +1,11 @@
 <?php
 session_start();
 
+// $servername="localhost";
+// $username="u987256365_enterprise";
+// $password="zL$&UZPTMqt1";
+// $dbname="u987256365_enterprise";
+
 $servername="localhost";
 $username="u987256365_enterprise";
 $password="zL$&UZPTMqt1";
