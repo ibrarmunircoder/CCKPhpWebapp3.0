@@ -7,8 +7,8 @@ session_start();
 // $dbname="u987256365_enterprise";
 
 $servername="localhost";
-$username="u987256365_enterprise";
-$password="zL$&UZPTMqt1";
+$username="root";
+$password="bTwSI@Iv6HQ/";
 $dbname="u987256365_enterprise";
 $conn = mysqli_connect($servername, $username, $password,$dbname);
 
